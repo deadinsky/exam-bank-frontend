@@ -1,0 +1,4 @@
+.DS_Store
+deploy.sh
+deploy-frontend.sh
+deploy-backend.sh
